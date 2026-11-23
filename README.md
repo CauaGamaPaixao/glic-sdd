@@ -7,12 +7,12 @@
 **Problema que resolve:** os prazos das disciplinas ficam espalhados em vários lugares (grupos, e-mails, plataformas), e isso faz o estudante perder entregas. O GLIC Estudos junta tudo numa tela só, com a lista ordenada pelo prazo mais próximo e destaques para atividades **atrasadas** e que **vencem em breve**.
 
 **Integrantes (GLIC):**
-- **G**iovanna Oliveira
-- **G**iovanna Pina
-- **L**ucas Lima
-- **I**gor Ruy
-- **C**auã
-- **C**intia
+- Giovanna Oliveira
+- Giovanna Pina
+- Lucas Lima
+- Igor Ruy
+- Cauã
+- Cintia
 
 ## Framework utilizado
 
