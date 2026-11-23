@@ -24,9 +24,9 @@
 
 ## 5. Formulário de cadastro
 
-- [ ] 5.1 [Giovanna Pina] Criar `src/components/AtividadeForm.jsx` com campos controlados: título, select de disciplina (opções recebidas pela prop `disciplinas`), select de tipo, prazo, select de prioridade com padrão "media", envio fixo de `status: "pendente"` e conversão `Number(disciplinaId)`; verificar que todos os campos aparecem acima da lista e que o payload enviado contém `status: "pendente"` e `disciplinaId` numérico.
-- [ ] 5.2 [Giovanna Pina] Implementar validações no submit: título com 3 a 80 caracteres após trim, presença de disciplinaId/tipo/prazo e prazo não anterior a hoje, exibindo mensagens abaixo de cada campo inválido e bloqueando a requisição; verificar que nenhuma chamada de rede ocorre em cada caso inválido e que um título com espaços é validado após trim.
-- [ ] 5.3 [Giovanna Pina] Implementar feedback e estados de envio: mensagem "Atividade cadastrada!" e limpeza do formulário no sucesso, mensagem "Não foi possível salvar a atividade. Tente novamente." preservando os valores na falha, e botão desabilitado durante a requisição; verificar todos os casos com a API rodando, com falha de rede e com resposta HTTP 500, observando que um duplo clique não gera dois POSTs.
+- [x] 5.1 [Giovanna Pina] Criar `src/components/AtividadeForm.jsx` com campos controlados: título, select de disciplina (opções recebidas pela prop `disciplinas`), select de tipo, prazo, select de prioridade com padrão "media", envio fixo de `status: "pendente"` e conversão `Number(disciplinaId)`; verificar que todos os campos aparecem acima da lista e que o payload enviado contém `status: "pendente"` e `disciplinaId` numérico.
+- [x] 5.2 [Giovanna Pina] Implementar validações no submit: título com 3 a 80 caracteres após trim, presença de disciplinaId/tipo/prazo e prazo não anterior a hoje, exibindo mensagens abaixo de cada campo inválido e bloqueando a requisição; verificar que nenhuma chamada de rede ocorre em cada caso inválido e que um título com espaços é validado após trim.
+- [x] 5.3 [Giovanna Pina] Implementar feedback e estados de envio: mensagem "Atividade cadastrada!" e limpeza do formulário no sucesso, mensagem "Não foi possível salvar a atividade. Tente novamente." preservando os valores na falha, e botão desabilitado durante a requisição; verificar todos os casos com a API rodando, com falha de rede e com resposta HTTP 500, observando que um duplo clique não gera dois POSTs.
 
 ## 6. Integração na página e estilos
 
