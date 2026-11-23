@@ -1,10 +1,7 @@
+import AtividadesPage from "./pages/AtividadesPage.jsx";
+
 function App() {
-  return (
-    <main>
-      <h1>GLIC Estudos</h1>
-      <p>Agenda de atividades acadêmicas — em construção.</p>
-    </main>
-  )
+  return <AtividadesPage />;
 }
 
-export default App
+export default App;

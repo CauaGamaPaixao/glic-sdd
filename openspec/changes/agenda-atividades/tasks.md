@@ -30,12 +30,12 @@
 
 ## 6. Integração na página e estilos
 
-- [ ] 6.1 [Igor Ruy] Criar `src/pages/AtividadesPage.jsx` orquestrando o carregamento paralelo (`Promise.all`) de atividades e disciplinas, estados de carregamento/erro/vazio, callback de nova tentativa e inclusão da atividade criada na lista ordenada sem recarregar; verificar na tela que o formulário fica acima da lista e que, após salvar, o novo item aparece na posição correta do prazo.
-- [ ] 6.2 [Igor Ruy] Substituir o placeholder em `src/App.jsx` pela `AtividadesPage` e ajustar `src/index.css` com layout e classes semânticas para os destaques, mensagens e botões; verificar que `npm run build` e `npm run lint` passam sem erros.
+- [x] 6.1 [Igor Ruy] Criar `src/pages/AtividadesPage.jsx` orquestrando o carregamento paralelo (`Promise.all`) de atividades e disciplinas, estados de carregamento/erro/vazio, callback de nova tentativa e inclusão da atividade criada na lista ordenada sem recarregar; verificar na tela que o formulário fica acima da lista e que, após salvar, o novo item aparece na posição correta do prazo.
+- [x] 6.2 [Igor Ruy] Substituir o placeholder em `src/App.jsx` pela `AtividadesPage` e ajustar `src/index.css` com layout e classes semânticas para os destaques, mensagens e botões; verificar que `npm run build` e `npm run lint` passam sem erros.
 
 ## 7. Verificação final
 
-- [ ] 7.1 [Igor Ruy] Registrar em `verificacao.md` o resultado dos cenários do spec: listagem ordenada, dados e destaques, carregamento, vazio, erro ao listar com tentativa, validações, sucesso no cadastro, falha no cadastro com dados preservados e botão desabilitado; verificar que cada cenário possui evidência de execução e que nenhum item fora de escopo foi implementado.
+- [x] 7.1 [Igor Ruy] Registrar em `verificacao.md` o resultado dos cenários do spec: listagem ordenada, dados e destaques, carregamento, vazio, erro ao listar com tentativa, validações, sucesso no cadastro, falha no cadastro com dados preservados e botão desabilitado; verificar que cada cenário possui evidência de execução e que nenhum item fora de escopo foi implementado.
 
 ## Revisão do grupo
 
