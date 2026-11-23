@@ -19,8 +19,8 @@
 
 ## 4. Listagem de atividades
 
-- [ ] 4.1 [Giovanna Oliveira] Criar `src/components/AtividadeItem.jsx` exibindo título, nome da disciplina recebido por prop (com rótulo para disciplina indisponível), tipo, prazo em `dd/mm/aaaa` e prioridade, calculando os destaques "Atrasada" (vermelho) e "Vence em breve" (amarelo) em datas locais, e exibindo o rótulo "Concluída" sem destaque de prazo para `status: "concluida"`; verificar com três atividades de exemplo: prazo passado, prazo hoje+2 e prazo futuro, observando os rótulos e cores corretos.
-- [ ] 4.2 [Giovanna Oliveira] Criar `src/components/AtividadeList.jsx` que percorre as atividades e delega a renderização a `AtividadeItem` mantendo a ordem recebida; verificar que a ordem de prazos exibida corresponde à ordem do `GET` ordenado.
+- [x] 4.1 [Giovanna Oliveira] Criar `src/components/AtividadeItem.jsx` exibindo título, nome da disciplina recebido por prop (com rótulo para disciplina indisponível), tipo, prazo em `dd/mm/aaaa` e prioridade, calculando os destaques "Atrasada" (vermelho) e "Vence em breve" (amarelo) em datas locais, e exibindo o rótulo "Concluída" sem destaque de prazo para `status: "concluida"`; verificar com três atividades de exemplo: prazo passado, prazo hoje+2 e prazo futuro, observando os rótulos e cores corretos.
+- [x] 4.2 [Giovanna Oliveira] Criar `src/components/AtividadeList.jsx` que percorre as atividades e delega a renderização a `AtividadeItem` mantendo a ordem recebida; verificar que a ordem de prazos exibida corresponde à ordem do `GET` ordenado.
 
 ## 5. Formulário de cadastro
 
