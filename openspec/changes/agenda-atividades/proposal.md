@@ -42,4 +42,4 @@ Spec lida em grupo e corrigida antes de seguir para o plano (sessão única do o
 - **Lacuna encontrada:** a spec não dizia o que acontece se `GET /disciplinas` falhar. Adicionado o cenário "Falha ao carregar disciplinas" (mesmo estado de erro, e "Tentar novamente" refaz as duas buscas).
 - Adicionado o cenário "Atividade concluída na listagem" (rótulo "Concluída", sem destaque), que o agente tinha deixado como questão em aberto.
 
-Aprovação da spec: Cauã ☐ · Lucas Lima ☐ · Giovanna Oliveira ☐ · Giovanna Pina ☐ · Cintia ☐ · Igor Ruy ☐
+Aprovação da spec: Cauã ☑ · Lucas Lima ☑ · Giovanna Oliveira ☑ · Giovanna Pina ☑ · Cintia ☑ · Igor Ruy ☑ (aprovada em 23/11/2026)

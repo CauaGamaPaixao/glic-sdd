@@ -2,8 +2,8 @@
 
 ## 1. Setup e contrato de dados
 
-- [ ] 1.1 [Cauã] Validar que `db.json` contém `disciplinas` e `atividades` com todos os campos do contrato (`titulo`, `disciplinaId`, `tipo`, `prazo`, `prioridade`, `status`) e incluir ao menos um caso de prazo próximo para exercitar os destaques; verificar com `npm run api` e `GET http://localhost:3001/atividades?_sort=prazo&_order=asc` retornando 200.
-- [ ] 1.2 [Cauã] Documentar no `README.md` os pré-requisitos, os comandos `npm install`, `npm run api` (porta 3001) e `npm run dev`, e o contrato dos endpoints; verificar que os comandos documentados executam com sucesso.
+- [x] 1.1 [Cauã] Validar que `db.json` contém `disciplinas` e `atividades` com todos os campos do contrato (`titulo`, `disciplinaId`, `tipo`, `prazo`, `prioridade`, `status`) e incluir ao menos um caso de prazo próximo para exercitar os destaques; verificar com `npm run api` e `GET http://localhost:3001/atividades?_sort=prazo&_order=asc` retornando 200.
+- [x] 1.2 [Cauã] Documentar no `README.md` os pré-requisitos, os comandos `npm install`, `npm run api` (porta 3001) e `npm run dev`, e o contrato dos endpoints; verificar que os comandos documentados executam com sucesso.
 
 ## 2. Clientes HTTP
 
