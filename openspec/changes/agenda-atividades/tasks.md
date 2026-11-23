@@ -13,9 +13,9 @@
 
 ## 3. Componentes de estado de UI
 
-- [ ] 3.1 [Cintia] Criar `src/components/Carregando.jsx` exibindo indicador textual/visual de carregamento; verificar que o componente aparece ao simular uma busca lenta e desaparece ao concluir.
-- [ ] 3.2 [Cintia] Criar `src/components/ListaVazia.jsx` com a mensagem exata "Nenhuma atividade cadastrada"; verificar que aparece somente quando a lista retornada estiver vazia.
-- [ ] 3.3 [Cintia] Criar `src/components/ErroApi.jsx` com a mensagem exata "Não foi possível carregar as atividades." e o botão "Tentar novamente" que dispara callback; verificar que o botão chama o callback e que a mensagem é exibida ao simular erro de rede e HTTP 500.
+- [x] 3.1 [Cintia] Criar `src/components/Carregando.jsx` exibindo indicador textual/visual de carregamento; verificar que o componente aparece ao simular uma busca lenta e desaparece ao concluir.
+- [x] 3.2 [Cintia] Criar `src/components/ListaVazia.jsx` com a mensagem exata "Nenhuma atividade cadastrada"; verificar que aparece somente quando a lista retornada estiver vazia.
+- [x] 3.3 [Cintia] Criar `src/components/ErroApi.jsx` com a mensagem exata "Não foi possível carregar as atividades." e o botão "Tentar novamente" que dispara callback; verificar que o botão chama o callback e que a mensagem é exibida ao simular erro de rede e HTTP 500.
 
 ## 4. Listagem de atividades
 
