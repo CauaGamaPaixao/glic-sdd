@@ -50,11 +50,12 @@ Para reproduzir o fluxo SDD no opencode: `/openspec-explore`, depois `/openspec-
 
 | Artefato | Caminho |
 |---|---|
-| Proposta (com a revisão do grupo e a aprovação da spec) | [`openspec/changes/agenda-atividades/proposal.md`](openspec/changes/agenda-atividades/proposal.md) |
-| Spec (11 requisitos, 24 cenários) | [`openspec/changes/agenda-atividades/specs/agenda-atividades/spec.md`](openspec/changes/agenda-atividades/specs/agenda-atividades/spec.md) |
-| Plano | [`openspec/changes/agenda-atividades/design.md`](openspec/changes/agenda-atividades/design.md) |
-| Tarefas (com o responsável de cada uma) | [`openspec/changes/agenda-atividades/tasks.md`](openspec/changes/agenda-atividades/tasks.md) |
+| Proposta (com a revisão do grupo e a aprovação da spec) | [`openspec/changes/archive/2026-11-23-agenda-atividades/proposal.md`](openspec/changes/archive/2026-11-23-agenda-atividades/proposal.md) |
+| Spec (11 requisitos, 24 cenários) | [`openspec/changes/archive/2026-11-23-agenda-atividades/specs/agenda-atividades/spec.md`](openspec/changes/archive/2026-11-23-agenda-atividades/specs/agenda-atividades/spec.md) |
+| Plano | [`openspec/changes/archive/2026-11-23-agenda-atividades/design.md`](openspec/changes/archive/2026-11-23-agenda-atividades/design.md) |
+| Tarefas (com o responsável de cada uma) | [`openspec/changes/archive/2026-11-23-agenda-atividades/tasks.md`](openspec/changes/archive/2026-11-23-agenda-atividades/tasks.md) |
 | Relatório de verificação | [`verificacao.md`](verificacao.md) |
+| Spec consolidada (publicada pelo `openspec archive`) | [`openspec/specs/agenda-atividades/spec.md`](openspec/specs/agenda-atividades/spec.md) |
 | Contexto do projeto para o agente | [`openspec/config.yaml`](openspec/config.yaml) |
 
 **Quem fez cada tarefa:**
