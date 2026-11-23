@@ -1,0 +1,37 @@
+{
+  "disciplinas": [
+    { "id": 1, "nome": "Front-end" },
+    { "id": 2, "nome": "Banco de Dados" },
+    { "id": 3, "nome": "Engenharia de Software" },
+    { "id": 4, "nome": "Redes de Computadores" }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Entrega do projeto SDD",
+      "disciplinaId": 1,
+      "tipo": "trabalho",
+      "prazo": "2026-12-05",
+      "prioridade": "alta",
+      "status": "pendente"
+    },
+    {
+      "id": 2,
+      "titulo": "Prova de modelagem relacional",
+      "disciplinaId": 2,
+      "tipo": "prova",
+      "prazo": "2026-11-25",
+      "prioridade": "media",
+      "status": "pendente"
+    },
+    {
+      "id": 3,
+      "titulo": "Relatório de requisitos",
+      "disciplinaId": 3,
+      "tipo": "entrega",
+      "prazo": "2026-11-20",
+      "prioridade": "baixa",
+      "status": "pendente"
+    }
+  ]
+}
