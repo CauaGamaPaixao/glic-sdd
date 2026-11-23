@@ -4,7 +4,7 @@
 
 **Tema:** agenda de atividades acadêmicas (trabalhos, provas e entregas).
 
-**Problema que resolve:** os prazos das disciplinas ficam espalhados em vários lugares (grupos, e-mails, plataformas), e isso faz o estudante perder entregas. O GLIC Estudos junta tudo numa tela só, com a lista ordenada pelo prazo mais próximo e destaques para atividades **atrasadas** e que **vencem em breve**.
+**Problema que resolve:** os prazos das disciplinas ficam espalhados em vários lugares (grupos, e-mails, plataformas), e isso faz o estudante perder entregas. O GLIC Estudos junta tudo numa tela só, com a lista ordenada pelo prazo mais próximo e destaques para atividades atrasadas e que vencem em breve.
 
 **Integrantes (GLIC):**
 - Giovanna Oliveira
@@ -16,7 +16,7 @@
 
 ## Framework utilizado
 
-**OpenSpec** (`@fission-ai/openspec` 2.1), usado no **opencode** com o modelo gratuito `opencode/big-pickle`.
+**OpenSpec** (`@fission-ai/openspec` 2.1), usado no opencode com o modelo gratuito `opencode/big-pickle`.
 
 Por que escolhemos o OpenSpec:
 - É leve. O projeto tem uma única funcionalidade, e cada mudança gera só proposta, spec, design e tarefas, sem as várias fases e papéis do BMAD ou do GSD.
