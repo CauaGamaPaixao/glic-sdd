@@ -7,9 +7,9 @@
 
 ## 2. Clientes HTTP
 
-- [ ] 2.0 [Lucas Lima] Criar `src/api/config.js` exportando a constante `API_URL = "http://localhost:3001"` e um helper de requisição que lança `Error` para falha de rede e para `!response.ok`; verificar que ambos os clientes importam a base deste arquivo.
-- [ ] 2.1 [Lucas Lima] Criar `src/api/disciplinas.js` com `listarDisciplinas()` (`GET /disciplinas`) usando `API_URL`, lançando erro para rede e para status fora de 2xx; verificar no navegador que a lista de disciplinas é retornada e que forçar a API fora do ar rejeita a promise.
-- [ ] 2.2 [Lucas Lima] Criar `src/api/atividades.js` com `listarAtividades()` (`GET /atividades?_sort=prazo&_order=asc`) e `criarAtividade(dados)` (`POST /atividades`, JSON), com o mesmo tratamento de erro e base URL; verificar com a API rodando que o GET ordena por prazo e que um POST de teste retorna 201 com o objeto criado.
+- [x] 2.0 [Lucas Lima] Criar `src/api/config.js` exportando a constante `API_URL = "http://localhost:3001"` e um helper de requisição que lança `Error` para falha de rede e para `!response.ok`; verificar que ambos os clientes importam a base deste arquivo.
+- [x] 2.1 [Lucas Lima] Criar `src/api/disciplinas.js` com `listarDisciplinas()` (`GET /disciplinas`) usando `API_URL`, lançando erro para rede e para status fora de 2xx; verificar no navegador que a lista de disciplinas é retornada e que forçar a API fora do ar rejeita a promise.
+- [x] 2.2 [Lucas Lima] Criar `src/api/atividades.js` com `listarAtividades()` (`GET /atividades?_sort=prazo&_order=asc`) e `criarAtividade(dados)` (`POST /atividades`, JSON), com o mesmo tratamento de erro e base URL; verificar com a API rodando que o GET ordena por prazo e que um POST de teste retorna 201 com o objeto criado.
 
 ## 3. Componentes de estado de UI
 
